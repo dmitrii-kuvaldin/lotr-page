@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+.title {
+  margin-top: 0;
+  text-decoration: underline;
+  /* font-style: italic; */
+}
+
+.filmText {
+  color: white;
+}
+
+.card {
+  width: 320px;
+  height: 738px;
+  padding: 50px;
+  background-color: rgb(46, 50, 90);
+  margin: 15px;
+  border-radius: 25px;
+}
+
+#poster {
+  width: 100%;
+  /* background: (transparent 50%, black); */
+}
